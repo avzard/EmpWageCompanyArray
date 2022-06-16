@@ -1,0 +1,15 @@
+E:\RFP COURSE\EmpWageCompanyArray\EmpWageCompanyArray\bin\Debug\net6.0\EmpWageCompanyArray.exe
+E:\RFP COURSE\EmpWageCompanyArray\EmpWageCompanyArray\bin\Debug\net6.0\EmpWageCompanyArray.deps.json
+E:\RFP COURSE\EmpWageCompanyArray\EmpWageCompanyArray\bin\Debug\net6.0\EmpWageCompanyArray.runtimeconfig.json
+E:\RFP COURSE\EmpWageCompanyArray\EmpWageCompanyArray\bin\Debug\net6.0\EmpWageCompanyArray.dll
+E:\RFP COURSE\EmpWageCompanyArray\EmpWageCompanyArray\bin\Debug\net6.0\EmpWageCompanyArray.pdb
+E:\RFP COURSE\EmpWageCompanyArray\EmpWageCompanyArray\obj\Debug\net6.0\EmpWageCompanyArray.csproj.AssemblyReference.cache
+E:\RFP COURSE\EmpWageCompanyArray\EmpWageCompanyArray\obj\Debug\net6.0\EmpWageCompanyArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP COURSE\EmpWageCompanyArray\EmpWageCompanyArray\obj\Debug\net6.0\EmpWageCompanyArray.AssemblyInfoInputs.cache
+E:\RFP COURSE\EmpWageCompanyArray\EmpWageCompanyArray\obj\Debug\net6.0\EmpWageCompanyArray.AssemblyInfo.cs
+E:\RFP COURSE\EmpWageCompanyArray\EmpWageCompanyArray\obj\Debug\net6.0\EmpWageCompanyArray.csproj.CoreCompileInputs.cache
+E:\RFP COURSE\EmpWageCompanyArray\EmpWageCompanyArray\obj\Debug\net6.0\EmpWageCompanyArray.dll
+E:\RFP COURSE\EmpWageCompanyArray\EmpWageCompanyArray\obj\Debug\net6.0\refint\EmpWageCompanyArray.dll
+E:\RFP COURSE\EmpWageCompanyArray\EmpWageCompanyArray\obj\Debug\net6.0\EmpWageCompanyArray.pdb
+E:\RFP COURSE\EmpWageCompanyArray\EmpWageCompanyArray\obj\Debug\net6.0\EmpWageCompanyArray.genruntimeconfig.cache
+E:\RFP COURSE\EmpWageCompanyArray\EmpWageCompanyArray\obj\Debug\net6.0\ref\EmpWageCompanyArray.dll
